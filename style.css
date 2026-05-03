@@ -1,0 +1,106 @@
+/* ~~~ DISABLED FOR NOW ~~~ */
+/* bbcode icons */
+/*
+.bbcode_icon_b, .bbcode_icon_i, .bbcode_icon_u, .bbcode_icon_s, .bbcode_icon_right, .bbcode_icon_right, .bbcode_icon_center, .bbcode_icon_left, .bbcode_icon_code, .bbcode_icon_h1, .bbcode_icon_h2, .bbcode_icon_h3, .bbcode_icon_quote, .bbcode_icon_list, .bbcode_icon_spoiler, .bbcode_icon_image, .bbcode_icon_video, .bbcode_icon_link, .bbcode_icon_torrent, .bbcode_icon_color {
+    visibility: hidden;
+}
+
+.bbcode_icon_b:before {
+    visibility: visible;display: inline-block;  
+    content: '\f032';
+}
+
+.bbcode_icon_i:before {
+    visibility: visible;display: inline-block; 
+    content: '\f033';
+}
+
+.bbcode_icon_u:before {
+    visibility: visible;display: inline-block; 
+    content: '\f0cd';
+}
+
+.bbcode_icon_s:before {
+    visibility: visible;display: inline-block; 
+    content: '\f0cc';
+}
+
+.bbcode_icon_right:before {
+    visibility: visible;display: inline-block; 
+    content: '\f038';
+}
+
+.bbcode_icon_center:before {
+    visibility: visible;display: inline-block; 
+    content: '\f037';
+}
+
+.bbcode_icon_left:before {
+    visibility: visible;display: inline-block; 
+    content: '\f036';
+}
+
+.bbcode_icon_code:before {
+    visibility: visible;display: inline-block; 
+    content: '\f121';
+}
+
+.bbcode_icon_h1:before {
+    visibility: visible;display: inline-block; 
+    content: '\f1dc 1';
+}
+
+.bbcode_icon_h2:before {
+    visibility: visible;display: inline-block; 
+    content: '\f1dc 2';
+}
+
+.bbcode_icon_h3:before {
+    visibility: visible;display: inline-block; 
+    content: '\f1dc 3';
+}
+
+.bbcode_icon_color:before {
+    visibility: visible;display: inline-block;
+    content: '\f1fc';
+}
+
+.bbcode_icon_tex:before {
+
+}
+
+.bbcode_icon_quote:before {
+    visibility: visible;display: inline-block; 
+    content: '\f10e';
+}
+
+.bbcode_icon_list:before {
+    visibility: visible;display: inline-block; 
+    content: '\f0ca';
+}
+
+.bbcode_icon_spoiler:before {
+    visibility: visible;display: inline-block;
+    content: '\f2d3';
+}
+
+.bbcode_icon_image:before {
+    visibility: visible;display: inline-block;
+    content: '\f1c5';
+}
+
+.bbcode_icon_video:before {
+    visibility: visible;display: inline-block;
+    content: '\f1c8';
+}
+
+.bbcode_icon_link:before {
+    visibility: visible;display: inline-block;
+    content: '\f0c1';
+}
+
+.bbcode_icon_torrent:before  {
+    visibility: visible;display: inline-block;
+    content: '\f15b';
+}
+*/
